@@ -1,6 +1,8 @@
 # Test app for autocomplete capability.
 
-Download the project zip from Github.
+### Download the project zip
+
+Download the project zip from Github repository: https://github.com/yisbecker/suggestion_textbox
 
 ### Install Dependencies
 
