@@ -1,0 +1,10 @@
+{
+  "name": "app-name",
+  "description": "Test app for autocomplete capability",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-bootstrap": "latest"
+  }
+}
